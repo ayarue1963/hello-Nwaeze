@@ -1,4 +1,6 @@
 # hello-Nwaeze
 My first repository.
-A new programmer joins Gothic today
+A new programmer joins Github today
+
+
 
